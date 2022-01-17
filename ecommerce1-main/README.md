@@ -1,4 +1,7 @@
 -------------------------------Website made by Hemantgg------------------------------------------
+
+Live Demo => https://ashy-forest-0978d2910.azurestaticapps.net/index.html
+
 # ecommerce1
 
 This is 10 Page E-commerce Front End website design
@@ -26,5 +29,7 @@ Azure Bot Service, QnA Maker, Static Web Apps
 
 Other Azure Technologies:
 App Service
+
+Live Demo => https://ashy-forest-0978d2910.azurestaticapps.net/index.html
 
 -------------------------------Website made by Hemantgg------------------------------------------
